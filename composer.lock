@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jordanAlmeida66/htttp-routes.git",
-                "reference": "81b8d3527337abf7c4780015e799f847c7688b47"
+                "reference": "d5c702d2eb05070ab765864f6f776ae63ee60d88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanAlmeida66/htttp-routes/zipball/81b8d3527337abf7c4780015e799f847c7688b47",
-                "reference": "81b8d3527337abf7c4780015e799f847c7688b47",
+                "url": "https://api.github.com/repos/jordanAlmeida66/htttp-routes/zipball/d5c702d2eb05070ab765864f6f776ae63ee60d88",
+                "reference": "d5c702d2eb05070ab765864f6f776ae63ee60d88",
                 "shasum": ""
             },
             "default-branch": true,
@@ -42,7 +42,7 @@
                 "issues": "https://github.com/jordanAlmeida66/htttp-routes/issues",
                 "source": "https://github.com/jordanAlmeida66/htttp-routes/tree/master"
             },
-            "time": "2022-04-08T19:28:20+00:00"
+            "time": "2022-04-16T14:18:44+00:00"
         }
     ],
     "packages-dev": [],
