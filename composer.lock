@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "666fe15391c2caca67eb8267bcf17ada",
+    "packages": [
+        {
+            "name": "jordan/http-routes",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jordanAlmeida66/htttp-routes.git",
+                "reference": "81b8d3527337abf7c4780015e799f847c7688b47"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jordanAlmeida66/htttp-routes/zipball/81b8d3527337abf7c4780015e799f847c7688b47",
+                "reference": "81b8d3527337abf7c4780015e799f847c7688b47",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "HttpRoutes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "jordanAlmeida66",
+                    "email": "jordansantos4254@gmail.com"
+                }
+            ],
+            "description": "abstração de rotas http com url amigável",
+            "support": {
+                "issues": "https://github.com/jordanAlmeida66/htttp-routes/issues",
+                "source": "https://github.com/jordanAlmeida66/htttp-routes/tree/master"
+            },
+            "time": "2022-04-08T19:28:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jordan/http-routes": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

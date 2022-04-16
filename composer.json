@@ -1,0 +1,17 @@
+{
+    "name": "jordan/myapp",
+    "authors": [
+        {
+            "name": "jordanAlmeida66",
+            "email": "jordansantos4254@gmail.com"
+        }
+    ],
+    "require": {
+        "jordan/http-routes": "dev-master"
+    },
+    "autoload" : {
+      "psr-4" : {
+        "App\\" :  "App/"
+      }
+    }
+}
