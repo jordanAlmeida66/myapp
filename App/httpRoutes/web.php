@@ -18,7 +18,7 @@ $route->set('get', '/loja')->callback(function(){
 
 try {
   //iniciando a aplicação
-  $init = new Bootstrap($route, getenv('BASE'));
+  $init = new Bootstrap($route, 'https://myapp66.herokuapp.com/');
 } catch (BootstrapException $e) {
   //erros relacionados à rota
   http_response_code($e->getCode());
